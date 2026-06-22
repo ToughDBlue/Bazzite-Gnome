@@ -8,4 +8,4 @@ set -oue pipefail
 # Your code goes here.
 echo 'This is an example shell script'
 echo 'Scripts here will run during build if specified in recipe.yml'
-curl -fsSL https://raw.githubusercontent.com/yannmasoch/nautilus-my-computer/main/install.sh | sh
+# curl -fsSL https://raw.githubusercontent.com/yannmasoch/nautilus-my-computer/main/install.sh | sh
