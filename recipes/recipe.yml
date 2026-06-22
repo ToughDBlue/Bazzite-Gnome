@@ -20,8 +20,8 @@ modules:
       packages:
         - brave-origin
 
-  - type: script
-    snippets:
-      - "curl -fsSL https://raw.githubusercontent.com/yannmasoch/nautilus-my-computer/main/install.sh | sh"
+#  - type: script
+#    snippets:
+#      - "curl -fsSL https://raw.githubusercontent.com/yannmasoch/nautilus-my-computer/main/install.sh | sh"
       
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
